@@ -1,0 +1,14 @@
+C:\Users\CE\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Project.exe.config
+C:\Users\CE\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Project.exe
+C:\Users\CE\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Project.pdb
+C:\Users\CE\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MathNet.Numerics.dll
+C:\Users\CE\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\CE\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\CE\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Project.Form1.resources
+C:\Users\CE\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Project.Properties.Resources.resources
+C:\Users\CE\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\CE\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Project.exe
+C:\Users\CE\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Project.pdb
+C:\Users\Asus.Asus-PC\Desktop\odev\kruskalproject_C#\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Project.exe.config
+C:\Users\Asus.Asus-PC\Desktop\odev\kruskalproject_C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Project.exe
+C:\Users\Asus.Asus-PC\Desktop\odev\kruskalproject_C#\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Project.pdb
